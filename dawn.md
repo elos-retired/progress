@@ -12,7 +12,7 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 ##### Data
  * User model and event model
 
-##### App
+##### Client
  * Login
  * Create account(?)
  * Start event
