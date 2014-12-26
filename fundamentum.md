@@ -1,5 +1,5 @@
 Fundamentum
-===========
+-----------
 
 The foundation for elos' core server stack.
 
