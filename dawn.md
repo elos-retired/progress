@@ -24,6 +24,9 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
  * User model and event model
  * Hub infrastructure
 
+##### Documentation
+ * Need to document core server architecture decisions: hub and concerns
+
 #### Progress
 -------------
 ##### Server
@@ -36,6 +39,8 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 - [ ] Get mongo db running on remote virtual host
 - [ ] Get go server talking to mongo db on remote virtual host
 - [ ] Get go server responding to external requests
+
+##### Documentation
 - [ ] Write article on data-centric nature of elos
 - [ ] Write on elos' concern model of data
 
