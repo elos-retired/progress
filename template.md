@@ -11,8 +11,11 @@ Project Title
 ##### Data
  * [informational needs, often models and data relationships]
 
-##### App
+##### Client
  * [user interface of the app]
+
+##### Testing
+ * [descriptions specific to the unit and integration testing necessary]
 
 #### Progress
 -------------
@@ -22,6 +25,7 @@ Project Title
 
 ##### Data
 ##### App
+##### Testing
 
 #### Resolution
 ---------------
