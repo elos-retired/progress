@@ -7,7 +7,7 @@ Project Title
 
 ##### Server
  * [core server stack and, in the future, decision agents]
- * 
+
 ##### Data
  * [informational needs, often models and data relationships]
 
