@@ -1,5 +1,5 @@
 Project Title
-=============
+-------------
 
 [short description]
 
@@ -17,6 +17,9 @@ Project Title
 ##### Testing
  * [descriptions specific to the unit and integration testing necessary]
 
+##### Documentation
+ * [descriptions of architecture and design decisions, less-so simple api-stuff]
+
 #### Progress
 -------------
 ##### Server
@@ -26,6 +29,7 @@ Project Title
 ##### Data
 ##### App
 ##### Testing
+##### Documentation
 
 #### Resolution
 ---------------
