@@ -5,11 +5,13 @@ Project Title
 
 #### Requirements
 
-#####Server
+##### Server
  * [core server stack and, in the future, decision agents]
-#####Data
+ * 
+##### Data
  * [informational needs, often models and data relationships]
-#####App
+
+##### App
  * [user interface of the app]
 
 #### Progress
