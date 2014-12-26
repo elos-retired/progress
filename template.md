@@ -15,7 +15,7 @@ Project Title
  * [user interface of the app]
 
 #### Progress
- [ ] a checklist to keep track of high level tasks, super low key
+- [ ] a checklist to keep track of high level tasks, super low key
 
 #### Resolution
  [short report at the end]
