@@ -26,6 +26,7 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 
 ##### Documentation
  * Need to document core server architecture decisions: hub and concerns
+ * Testing with go
 
 #### Progress
 -------------
