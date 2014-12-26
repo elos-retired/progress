@@ -16,6 +16,7 @@ Project Title
 
 #### Progress
 - [ ] a checklist to keep track of high level tasks, super low key
+- [x] foo bar
 
 #### Resolution
  [short report at the end]
