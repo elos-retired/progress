@@ -1,10 +1,11 @@
 Fundamentum
 ===========
 
-The foundation for elos core server stack.
+The foundation for elos' core server stack.
 
 #### Requirements
 -----------------
+
 ##### Server
  * Database connection
  * Model system
