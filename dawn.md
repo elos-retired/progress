@@ -21,4 +21,15 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 
 #### Progress
 
+##### Server
+- [ ] Project costs of running elos server
+- [ ] Decide where to host elos
+- [ ] Decide if separate host for go server and mongo
+- [ ] Decide if nginx is overkill at this point
+- [ ] Get builds of the elos server
+- [ ] Get binary of elos server running on remote virtual host
+- [ ] Get mongo db running on remote virtual host
+- [ ] Get go server talking to mongo db on remote virtual host
+- [ ] Get go server responding to external requests
+
 #### Resolution
