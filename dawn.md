@@ -1,5 +1,5 @@
 Dawn
-====
+----
 
 The first elos project. Dawn is a mobile app that interacts with elos' main server, recording events. Specifically, dawn records the start and stop times of an event along with the "event's" name. The application will be written for iOS, and will be native swift code.
 
@@ -19,6 +19,11 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
  * Name event
  * Stop event
 
+##### Testing
+ * Server database infrastructure
+ * User model and event model
+ * Hub infrastructure
+
 #### Progress
 -------------
 ##### Server
@@ -33,6 +38,8 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 - [ ] Get go server responding to external requests
 - [ ] Write article on data-centric nature of elos
 - [ ] Write on elos' concern model of data
+
+##### Testing
 
 #### Resolution
 ---------------
