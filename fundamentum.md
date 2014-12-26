@@ -4,7 +4,7 @@ Fundamentum
 The foundation for elos core server stack.
 
 #### Requirements
-
+-----------------
 ##### Server
  * Database connection
  * Model system
@@ -19,6 +19,7 @@ The foundation for elos core server stack.
  * N/A
 
 #### Resolution
+---------------
 
 Elos runs a [go server](https://github.com/elos/server) that connects to a [mongo database](https://github.com/elos/server). We have a user model and event model. Web socket communication is fully functional with a broadcast system based on channels and concerns[*].
 
