@@ -50,4 +50,4 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 #### Resolution
 ---------------
 
-[Elos' is Data-Driven](https://github.com/elos/ideation/blob/master/functionality/data.md)
+[Elos is Data-Driven](https://github.com/elos/ideation/blob/master/functionality/data.md)
