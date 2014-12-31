@@ -42,10 +42,12 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 - [ ] Get go server responding to external requests
 
 ##### Documentation
-- [ ] Write article on data-centric nature of elos
+- [x] Write article on [data-centric nature of elos](https://github.com/elos/ideation/blob/master/functionality/data.md)
 - [ ] Write on elos' concern model of data
 
 ##### Testing
 
 #### Resolution
 ---------------
+
+[Elos' is Data-Driven](https://github.com/elos/ideation/blob/master/functionality/data.md)
