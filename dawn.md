@@ -31,10 +31,10 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 #### Progress
 -------------
 ##### Server
-- [ ] Project costs of running elos server
-- [ ] Decide where to host elos
-- [ ] Decide if separate host for go server and mongo
-- [ ] Decide if nginx is overkill at this point
+- [x] Project costs of running elos server
+- [x] Decide where to host elos
+- [x] Decide if separate host for go server and mongo
+- [x] Decide if nginx is overkill at this point
 - [ ] Get builds of the elos server
 - [ ] Get binary of elos server running on remote virtual host
 - [ ] Get mongo db running on remote virtual host
@@ -50,5 +50,9 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 #### Resolution
 ---------------
 
+* [Digital ocean](https://www.digitalocean.com) appears to be the highest quality cheap hosting option.
+* Digital ocean's lowest [pricing level](https://www.digitalocean.com/pricing/) is $5/month for 1 core and 512mb of RAM. This should suffice for now.
+* We will run mongo locally with the go server for now
+* nginx is overkill right now
 * [Elos is Data-Driven](https://github.com/elos/ideation/blob/master/functionality/data.md)
 * Elos manages its distribution of data with model [concerns](https://github.com/elos/documentation/blob/master/data/concerns.md)
