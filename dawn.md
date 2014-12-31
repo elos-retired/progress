@@ -43,7 +43,7 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 
 ##### Documentation
 - [x] Write article on [data-centric nature of elos](https://github.com/elos/ideation/blob/master/functionality/data.md)
-- [ ] Write on elos' concern model of data
+- [ ] Write on elos' [concern model of data](https://github.com/elos/documentation/blob/master/data/concerns.md)
 
 ##### Testing
 
@@ -51,3 +51,4 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 ---------------
 
 [Elos is Data-Driven](https://github.com/elos/ideation/blob/master/functionality/data.md)
+Elos manages its distribution of data with model [concerns](https://github.com/elos/documentation/blob/master/data/concerns.md)
