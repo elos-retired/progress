@@ -40,7 +40,7 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 - [x] Get mongo db running on remote virtual host
 - [x] Get go server talking to mongo db on remote virtual host
 - [x] Get go server responding to external requests
-- [ ] Don't override model if unauthenticated or already created (namely posting a user's id)
+- [x] Don't [override model if unauthenticated or already created](https://github.com/elos/server/issues/1) (namely posting a user's id)
 
 ##### Documentation
 - [x] Write article on [data-centric nature of elos](https://github.com/elos/ideation/blob/master/functionality/data.md)
