@@ -47,6 +47,10 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 - [x] Write on elos' [concern model of data](https://github.com/elos/documentation/blob/master/data/concerns.md)
 
 ##### Testing
+- [x] All of util package except logging utilities
+- [ ] Sockets package (hub infrastructure)
+- [ ] Routing, both config/routes & the routes package
+- [ ] Models: user, event
 
 #### Resolution
 ---------------
