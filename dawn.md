@@ -62,5 +62,5 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 * nginx is overkill right now
 * Building the server is fine, but it funky because of mongo dependency and system deps. You have to build for linux on a linux box.
 * Decided not to use a binary but instead just use the git repo, set up a fresh server with setup.sh.
-* [Elos is Data-Driven](https://github.com/elos/ideation/blob/master/functionality/data.md)
+* [Elos is Data-Driven](https://github.com/elos/ideation/blob/master/on/data.md)
 * Elos manages its distribution of data with model [concerns](https://github.com/elos/documentation/blob/master/data/concerns.md)
