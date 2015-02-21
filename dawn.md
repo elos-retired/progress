@@ -48,8 +48,8 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 
 ##### Testing
 - [x] All of util package except logging utilities
-- [ ] Autonomous client data agent
-- [ ] data/transfer package
+- [x] Autonomous client data agent
+- [x] data/transfer package
 - [x] Routing, both config/routes & the routes package
 - [ ] Models: user, event
 
