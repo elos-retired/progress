@@ -12,7 +12,7 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 ##### Data
  * User model and event model
 
-##### Client
+##### Client [CANCELLED]
  * Login
  * Create account(?)
  * Start event
@@ -51,7 +51,7 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 - [x] Autonomous client data agent
 - [x] data/transfer package
 - [x] Routing, both config/routes & the routes package
-- [ ] Models: user, event
+- [x] Models: user, event
 
 #### Resolution
 ---------------
@@ -64,3 +64,9 @@ The first elos project. Dawn is a mobile app that interacts with elos' main serv
 * Decided not to use a binary but instead just use the git repo, set up a fresh server with setup.sh.
 * [Elos is Data-Driven](https://github.com/elos/ideation/blob/master/on/data.md)
 * Elos manages its distribution of data with model [concerns](https://github.com/elos/documentation/blob/master/data/concerns.md)
+
+
+##### This project was declared finished on 3/22/15.
+ * Server tasks handled.
+ * App cancelled
+
